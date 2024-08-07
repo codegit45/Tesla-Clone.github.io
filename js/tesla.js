@@ -36,14 +36,14 @@ main.addEventListener("scroll", () => {
     h1.classList.add("hide");
     l1.classList.add("hide");
   }
-  if (unit > 550 && unit < 700) {
+  if (unit > 550 && unit < 750) {
     h2.classList.add("active");
     l2.classList.add("active");
   } else {
     h2.classList.remove("active");
     l2.classList.remove("active");
   }
-  if (unit > 1300 && unit < 1400) {
+  if (unit > 1300 && unit < 1500) {
     h3.classList.add("active");
     l3.classList.add("active");
   } else {
@@ -57,7 +57,7 @@ main.addEventListener("scroll", () => {
     h4.classList.remove("active");
     l4.classList.remove("active");
   }
-  if (unit > 2600 && unit < 2800) {
+  if (unit > 2600 && unit < 3000) {
     h5.classList.add("active");
     l5.classList.add("active");
   } else {
