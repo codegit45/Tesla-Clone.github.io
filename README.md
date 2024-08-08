@@ -1,7 +1,7 @@
 # Tesla-Clone
 A basic frontend clone of the Tesla website. Built with HTML, CSS, and JavaScript to replicate the design and responsiveness.
 
-==>
+***
 ![Screenshot 2024-08-08 131238](https://github.com/user-attachments/assets/f245da27-b1fa-4d03-b98b-46c4b46a2136)
 
 ***
